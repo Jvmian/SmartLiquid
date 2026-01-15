@@ -1,4 +1,4 @@
-# SMART LIQUID
+# SMART LIQUID 🚰
 ## Sistema Inteligente de Monitoramento e Controle de Líquidos (IoT)
 
 ---
