@@ -118,7 +118,7 @@ Esses dados são utilizados exclusivamente para fins de demonstração.
 - C / C++ (ESP32)
 - PHP
 - MySQL
-- HTML / CSS
+- HTML / CSS / JS
 - HTTP
 
 ---
